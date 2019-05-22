@@ -1,12 +1,3 @@
-#coding=utf-8 
-
-'''
-Chat room 
-env: python3.5
-exc: socket and fork 
-name: tedu 
-email: lvze@tedu.cn
-'''
 
 from socket import * 
 import os,sys 
