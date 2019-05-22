@@ -4,7 +4,7 @@
     	3.Windows:win7,win8,win10
 
 2.VMware Workstaion:（桌面虚拟计算机软件）
-
+lalalla
 3.终端：用来输入Linux命令
 
 4.根(/):文件系统起始位置（类似于windows中的计算机）
